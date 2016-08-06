@@ -1,0 +1,35 @@
+_repo: Discours-sur-la-n-cessit--et-les-moyens-de-d-truire-l-esclavage-dans-les-colonies--13-Lu---la__10697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laffon de Ladébat, André-Daniel
+    aliases:
+    - De Ladébat, André-Daniel Laffon
+    - Laffon-Ladébat, M. (André-Daniel)
+    - Ladébat, André-Daniel Laffon de
+    - Laffon de Ladebat, Andre-Daniel
+    birthdate: 1746
+    deathdate: 1829
+    gutenberg_agent_id: '3644'
+    url: http://www.gutenberg.org/2009/agents/3644
+    wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9-Daniel_Laffon_de_Ladebat
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10697'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'France -- Colonies -- History'
+- !lcc 'JV'
+- !lcsh 'Slavery -- France -- Colonies'
+- GITenberg
+title: "Discours sur la nécessité et les moyens de détruire l'esclavage dans les colonies\r\
+  \nLu à la séance publique de l'Académie royale des sciences, belles lettres et arts\
+  \ de Bordeaux, le 26 Août 1788"
+url: http://www.gutenberg.org/ebooks/10697
