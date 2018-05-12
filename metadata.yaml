@@ -1,5 +1,8 @@
 _repo: Discours-sur-la-n-cessit--et-les-moyens-de-d-truire-l-esclavage-dans-les-colonies--13-Lu---la__10697
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Laffon de Ladébat, André-Daniel
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3644
     wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9-Daniel_Laffon_de_Ladebat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10697#Discours-sur-la-n-cessit--et-les-moyens-de-d-truire-l-esclavage-dans-les-colonies--13-Lu---la_
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
